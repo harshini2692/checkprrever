@@ -1,1 +1,3 @@
 Am from commit a
+Am from commit b
+Am from commit c
